@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bluexxfox32001.github.io/My_ttcoin_site/sitemap.xml
